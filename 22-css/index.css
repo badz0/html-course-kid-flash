@@ -1,0 +1,60 @@
+
+/* @import url("header.css"); */
+
+* {
+  margin: 0;
+}
+
+h1, h2, h3 {
+  margin: 0;
+}
+
+body {
+}
+
+
+.title-big {
+  font-size: 40px;
+}
+
+h1, p, span {
+  color: #ccc;
+}
+
+header, footer {
+  border: 1px solid black;
+}
+
+header {
+  margin: 10px;
+  padding: 10px;
+
+}
+
+footer {
+  margin: 20px;
+  padding: 30px;
+}
+
+body {
+  /* width: 300px; */
+}
+
+/* .header-section {
+  min-height: 100vh;
+  background-color: burlywood;
+} */
+html {
+  font-size: 25px;
+}
+
+.title {
+  background-color: aquamarine;
+  /* width: 50vh; */
+  height: 3em;
+  width: 4em;
+
+  font-size: 30px;
+}
+
+
