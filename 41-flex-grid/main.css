@@ -1,0 +1,28 @@
+body, html {
+  margin: 0;
+  font-size: 20px;
+  font-family: Lato, sans-serif;
+  background-color: #FAFAFA;
+}
+
+p {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.flex-container, .grid-container {
+  background-color: #9af7ed;
+}
+
+
+.flex-item, .grid-item {
+  background-color: #E75A31;
+  font-weight: bold;
+  color: #fff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  padding: 10px;
+}
